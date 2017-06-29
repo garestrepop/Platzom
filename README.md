@@ -1,4 +1,4 @@
-# WEBGARP
+# PLATZOM
 
 Platzom es un idioma inventado para el Curso de Fundamentos
 de JavaScript de Platzi.
